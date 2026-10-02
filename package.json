@@ -13,7 +13,7 @@
     "@tailwindcss/vite": "^4.3.3",
     "daisyui": "^5.7.47",
     "lucide-react": "^1.49.0",
-    "motion": "^13.5.0",
+    "motion": "^13.5.1",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-router": "^8.4.0",
